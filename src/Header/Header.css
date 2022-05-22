@@ -1,0 +1,28 @@
+.expense{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:0.40cm;
+    font-weight: 600;
+    color: rgb(46, 133, 5);
+    /* text-shadow: 2px 2px 2px  #aaa8a8; */
+}
+.linktext{
+    color: rgb(1, 87, 54);
+    font-family:monospace;
+    font-size: 0.4cm;
+    font-weight:600;
+}
+.linktext:hover{
+    color: black;
+   
+}
+.backs:hover{
+    background-color: rgb(185, 233, 220);
+    cursor: pointer;
+}
+
+.heart{
+	animation: beat 0.59s infinite alternate;
+}
+@keyframes beat{
+	to { transform: scale(1.2); }
+}

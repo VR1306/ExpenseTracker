@@ -1,0 +1,40 @@
+.textboxs{
+    width: 225px;
+    height: 30px;
+}
+.bal{
+    color: rgb(112, 0, 0);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    
+}
+.tot{
+    color: rgb(112, 0, 0);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}
+.exp{
+    color: rgb(112, 0, 0);
+    font-family:Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+}
+
+.btn{
+    width: 150px;
+    height: 40px;
+}
+.outp{
+    border-style:solid;
+    font-display:initial;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:0.5cm;
+    font-weight:bolder;
+    margin-top: auto;
+}
+.outp1{
+    border-style:solid;
+    font-family:monospace;
+    font-size:0.4cm;
+    font-weight:600;
+}
